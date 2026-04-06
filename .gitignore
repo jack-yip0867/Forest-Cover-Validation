@@ -1,0 +1,5 @@
+data/
+*.nc
+*.tif
+*.xml
+.DS_Store
