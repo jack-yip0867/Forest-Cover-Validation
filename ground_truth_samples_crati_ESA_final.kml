@@ -1,0 +1,3863 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ground_truth_samples_crati_ESA_final" id="ground_truth_samples_crati_ESA_final">
+	<SimpleField name="Point_ID" type="string"></SimpleField>
+	<SimpleField name="Map_Class_Code" type="string"></SimpleField>
+	<SimpleField name="Map_Class_Name" type="string"></SimpleField>
+	<SimpleField name="GT_Class_Code" type="string"></SimpleField>
+	<SimpleField name="Notes" type="string"></SimpleField>
+</Schema>
+<Folder><name>ground_truth_samples_crati_ESA_final</name>
+  <Placemark id="ground_truth_samples_crati_ESA_final.1">
+	<name>CRATI_GT_001</name>
+	<description>20</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Forest</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.2125,39.2097222222222</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.2">
+	<name>CRATI_GT_002</name>
+	<description>20</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Forest</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.8652777777778,38.0847222222222</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.3">
+	<name>CRATI_GT_003</name>
+	<description>20</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Forest</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.0041666666667,38.0069444444445</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.4">
+	<name>CRATI_GT_004</name>
+	<description>20</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Forest</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.2180555555556,41.8541666666667</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.5">
+	<name>CRATI_GT_005</name>
+	<description>20</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Forest</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.7263888888889,40.2013888888889</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.6">
+	<name>CRATI_GT_006</name>
+	<description>20</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Forest</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.0375,39.6847222222222</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.7">
+	<name>CRATI_GT_007</name>
+	<description>20</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Forest</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.0402777777778,40.7708333333333</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.8">
+	<name>CRATI_GT_008</name>
+	<description>20</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Forest</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.4430555555556,41.3680555555556</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.9">
+	<name>CRATI_GT_009</name>
+	<description>20</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Forest</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>12.9513888888889,41.6736111111111</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.10">
+	<name>CRATI_GT_010</name>
+	<description>20</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Forest</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.1263888888889,41.6791666666667</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.11">
+	<name>CRATI_GT_011</name>
+	<description>20</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Forest</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.0986111111111,40.7263888888889</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.12">
+	<name>CRATI_GT_012</name>
+	<description>20</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Forest</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.4513888888889,39.2958333333333</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.13">
+	<name>CRATI_GT_013</name>
+	<description>20</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Forest</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.0986111111111,40.7930555555556</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.14">
+	<name>CRATI_GT_014</name>
+	<description>20</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Forest</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.5847222222222,39.1958333333333</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.15">
+	<name>CRATI_GT_015</name>
+	<description>20</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Forest</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.4541666666667,39.9236111111111</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.16">
+	<name>CRATI_GT_016</name>
+	<description>20</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Forest</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.5069444444445,39.2819444444444</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.17">
+	<name>CRATI_GT_017</name>
+	<description>20</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Forest</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.9708333333334,39.7097222222222</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.18">
+	<name>CRATI_GT_018</name>
+	<description>20</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Forest</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.5625,40.1569444444444</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.19">
+	<name>CRATI_GT_019</name>
+	<description>20</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Forest</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.8958333333333,40.5597222222222</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.20">
+	<name>CRATI_GT_020</name>
+	<description>20</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Forest</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.0458333333334,39.4875</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.21">
+	<name>CRATI_GT_021</name>
+	<description>20</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Forest</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.5486111111111,41.3569444444444</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.22">
+	<name>CRATI_GT_022</name>
+	<description>20</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Forest</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.0569444444445,40.3180555555556</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.23">
+	<name>CRATI_GT_023</name>
+	<description>20</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Forest</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.3875,40.6180555555556</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.24">
+	<name>CRATI_GT_024</name>
+	<description>20</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Forest</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.2875,41.8986111111111</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.25">
+	<name>CRATI_GT_025</name>
+	<description>20</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Forest</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.9263888888889,38.1458333333333</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.26">
+	<name>CRATI_GT_026</name>
+	<description>20</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Forest</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.0236111111111,38.2736111111111</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.27">
+	<name>CRATI_GT_027</name>
+	<description>20</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Forest</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.5375,41.7069444444444</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.28">
+	<name>CRATI_GT_028</name>
+	<description>20</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Forest</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.9902777777778,41.5152777777778</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.29">
+	<name>CRATI_GT_029</name>
+	<description>20</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Forest</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.3763888888889,38.4930555555556</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.30">
+	<name>CRATI_GT_030</name>
+	<description>20</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Forest</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.0347222222222,41.8291666666667</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.31">
+	<name>CRATI_GT_031</name>
+	<description>20</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Forest</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.9597222222222,41.7263888888889</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.32">
+	<name>CRATI_GT_032</name>
+	<description>20</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Forest</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.3458333333333,41.4375</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.33">
+	<name>CRATI_GT_033</name>
+	<description>20</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Forest</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.4986111111111,38.6430555555556</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.34">
+	<name>CRATI_GT_034</name>
+	<description>20</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Forest</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.0625,40.1375</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.35">
+	<name>CRATI_GT_035</name>
+	<description>20</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Forest</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.2347222222222,38.9930555555556</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.36">
+	<name>CRATI_GT_036</name>
+	<description>20</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Forest</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.3041666666667,38.4986111111111</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.37">
+	<name>CRATI_GT_037</name>
+	<description>20</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Forest</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.3763888888889,41.1069444444444</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.38">
+	<name>CRATI_GT_038</name>
+	<description>20</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Forest</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.7152777777778,40.8708333333333</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.39">
+	<name>CRATI_GT_039</name>
+	<description>20</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Forest</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.8652777777778,38.1930555555556</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.40">
+	<name>CRATI_GT_040</name>
+	<description>20</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Forest</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.0180555555556,39.9180555555556</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.41">
+	<name>CRATI_GT_041</name>
+	<description>20</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Forest</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.1569444444445,41.7486111111111</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.42">
+	<name>CRATI_GT_042</name>
+	<description>20</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Forest</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.4763888888889,39.3152777777778</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.43">
+	<name>CRATI_GT_043</name>
+	<description>20</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Forest</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.3097222222222,41.8513888888889</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.44">
+	<name>CRATI_GT_044</name>
+	<description>20</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Forest</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.3986111111111,40.2402777777778</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.45">
+	<name>CRATI_GT_045</name>
+	<description>20</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Forest</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>12.9486111111111,41.8541666666667</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.46">
+	<name>CRATI_GT_046</name>
+	<description>20</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Forest</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.6180555555556,41.0930555555556</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.47">
+	<name>CRATI_GT_047</name>
+	<description>20</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Forest</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.5708333333334,40.5347222222222</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.48">
+	<name>CRATI_GT_048</name>
+	<description>20</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Forest</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.2597222222222,41.4958333333333</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.49">
+	<name>CRATI_GT_049</name>
+	<description>20</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Forest</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.7097222222222,38.1708333333333</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.50">
+	<name>CRATI_GT_050</name>
+	<description>20</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Forest</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.1291666666667,40.4902777777778</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.51">
+	<name>CRATI_GT_051</name>
+	<description>20</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Forest</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.9958333333334,38.6597222222222</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.52">
+	<name>CRATI_GT_052</name>
+	<description>20</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Forest</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.5513888888889,39.5736111111111</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.53">
+	<name>CRATI_GT_053</name>
+	<description>20</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Forest</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.7041666666667,41.3930555555556</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.54">
+	<name>CRATI_GT_054</name>
+	<description>20</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Forest</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.1291666666667,40.5847222222222</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.55">
+	<name>CRATI_GT_055</name>
+	<description>20</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Forest</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.0875,39.2930555555556</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.56">
+	<name>CRATI_GT_056</name>
+	<description>20</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Forest</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.9208333333334,40.2180555555556</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.57">
+	<name>CRATI_GT_057</name>
+	<description>20</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Forest</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.4819444444445,41.8930555555556</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.58">
+	<name>CRATI_GT_058</name>
+	<description>20</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Forest</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.9513888888889,40.7291666666667</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.59">
+	<name>CRATI_GT_059</name>
+	<description>20</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Forest</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.4625,38.5736111111111</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.60">
+	<name>CRATI_GT_060</name>
+	<description>20</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Forest</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.9486111111111,39.5458333333333</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.61">
+	<name>CRATI_GT_061</name>
+	<description>20</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Forest</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.1152777777778,40.6736111111111</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.62">
+	<name>CRATI_GT_062</name>
+	<description>20</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Forest</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.2458333333334,39.0097222222222</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.63">
+	<name>CRATI_GT_063</name>
+	<description>20</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Forest</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.9291666666667,41.4152777777778</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.64">
+	<name>CRATI_GT_064</name>
+	<description>20</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Forest</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.4680555555556,40.0847222222222</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.65">
+	<name>CRATI_GT_065</name>
+	<description>20</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Forest</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.2486111111111,39.0430555555556</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.66">
+	<name>CRATI_GT_066</name>
+	<description>20</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Forest</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.6902777777778,39.1291666666667</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.67">
+	<name>CRATI_GT_067</name>
+	<description>20</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Forest</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.4375,39.5513888888889</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.68">
+	<name>CRATI_GT_068</name>
+	<description>20</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Forest</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.4097222222222,40.2652777777778</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.69">
+	<name>CRATI_GT_069</name>
+	<description>20</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Forest</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.3208333333334,38.4986111111111</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.70">
+	<name>CRATI_GT_070</name>
+	<description>20</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Forest</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.2652777777778,38.9819444444445</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.71">
+	<name>CRATI_GT_071</name>
+	<description>20</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Forest</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.5875,40.8486111111111</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.72">
+	<name>CRATI_GT_072</name>
+	<description>5</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Shrubland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.8208333333333,41.8180555555556</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.73">
+	<name>CRATI_GT_073</name>
+	<description>5</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Shrubland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.5347222222222,40.1486111111111</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.74">
+	<name>CRATI_GT_074</name>
+	<description>5</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Shrubland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.2319444444445,41.3513888888889</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.75">
+	<name>CRATI_GT_075</name>
+	<description>5</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Shrubland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.5486111111111,40.3625</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.76">
+	<name>CRATI_GT_076</name>
+	<description>5</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Shrubland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.1402777777778,39.1986111111111</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.77">
+	<name>CRATI_GT_077</name>
+	<description>5</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Shrubland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.3847222222222,40.0763888888889</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.78">
+	<name>CRATI_GT_078</name>
+	<description>5</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Shrubland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.2013888888889,39.8902777777778</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.79">
+	<name>CRATI_GT_079</name>
+	<description>5</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Shrubland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.7069444444445,40.0958333333333</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.80">
+	<name>CRATI_GT_080</name>
+	<description>5</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Shrubland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.9763888888889,40.4402777777778</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.81">
+	<name>CRATI_GT_081</name>
+	<description>5</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Shrubland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.4875,41.3375</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.82">
+	<name>CRATI_GT_082</name>
+	<description>5</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Shrubland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.8291666666667,39.8847222222222</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.83">
+	<name>CRATI_GT_083</name>
+	<description>5</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Shrubland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.0708333333334,41.7652777777778</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.84">
+	<name>CRATI_GT_084</name>
+	<description>5</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Shrubland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.3402777777778,40.4708333333333</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.85">
+	<name>CRATI_GT_085</name>
+	<description>5</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Shrubland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.7375,38.1763888888889</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.86">
+	<name>CRATI_GT_086</name>
+	<description>5</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Shrubland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.9347222222222,41.7319444444444</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.87">
+	<name>CRATI_GT_087</name>
+	<description>5</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Shrubland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.2263888888889,38.8097222222222</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.88">
+	<name>CRATI_GT_088</name>
+	<description>5</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Shrubland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.5486111111111,38.5625</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.89">
+	<name>CRATI_GT_089</name>
+	<description>5</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Shrubland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.9041666666667,38.5652777777778</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.90">
+	<name>CRATI_GT_090</name>
+	<description>5</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Shrubland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.8180555555556,38.2902777777778</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.91">
+	<name>CRATI_GT_091</name>
+	<description>5</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Shrubland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.7375,40.6791666666667</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.92">
+	<name>CRATI_GT_092</name>
+	<description>5</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Shrubland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.4930555555556,40.2791666666667</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.93">
+	<name>CRATI_GT_093</name>
+	<description>5</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Shrubland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.4819444444445,41.2875</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.94">
+	<name>CRATI_GT_094</name>
+	<description>5</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Shrubland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.2291666666667,41.4208333333333</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.95">
+	<name>CRATI_GT_095</name>
+	<description>5</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Shrubland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.0013888888889,38.0652777777778</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.96">
+	<name>CRATI_GT_096</name>
+	<description>5</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Shrubland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.5375,40.3875</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.97">
+	<name>CRATI_GT_097</name>
+	<description>5</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Shrubland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.3013888888889,40.0763888888889</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.98">
+	<name>CRATI_GT_098</name>
+	<description>5</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Shrubland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.4347222222222,38.3625</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.99">
+	<name>CRATI_GT_099</name>
+	<description>5</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Shrubland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.8680555555556,41.8013888888889</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.100">
+	<name>CRATI_GT_100</name>
+	<description>5</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Shrubland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.4458333333334,39.9486111111111</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.101">
+	<name>CRATI_GT_101</name>
+	<description>5</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Shrubland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.9097222222222,38.0319444444445</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.102">
+	<name>CRATI_GT_102</name>
+	<description>5</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Shrubland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.3486111111111,40.0152777777778</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.103">
+	<name>CRATI_GT_103</name>
+	<description>5</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Shrubland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.9430555555556,38.4958333333333</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.104">
+	<name>CRATI_GT_104</name>
+	<description>5</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Shrubland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.1652777777778,38.0541666666667</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.105">
+	<name>CRATI_GT_105</name>
+	<description>5</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Shrubland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>17.1347222222222,40.6402777777778</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.106">
+	<name>CRATI_GT_106</name>
+	<description>5</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Shrubland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.3458333333333,40.6013888888889</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.107">
+	<name>CRATI_GT_107</name>
+	<description>5</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Shrubland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.4763888888889,38.2402777777778</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.108">
+	<name>CRATI_GT_108</name>
+	<description>5</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Shrubland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.3875,40.4263888888889</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.109">
+	<name>CRATI_GT_109</name>
+	<description>5</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Shrubland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.4152777777778,40.4152777777778</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.110">
+	<name>CRATI_GT_110</name>
+	<description>5</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Shrubland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.4208333333334,40.1513888888889</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.111">
+	<name>CRATI_GT_111</name>
+	<description>5</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Shrubland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.8597222222222,41.8569444444444</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.112">
+	<name>CRATI_GT_112</name>
+	<description>5</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Shrubland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.1847222222222,38.0652777777778</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.113">
+	<name>CRATI_GT_113</name>
+	<description>5</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Shrubland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.2291666666667,41.3513888888889</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.114">
+	<name>CRATI_GT_114</name>
+	<description>5</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Shrubland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.4819444444445,40.4152777777778</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.115">
+	<name>CRATI_GT_115</name>
+	<description>5</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Shrubland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.4513888888889,41.8958333333333</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.116">
+	<name>CRATI_GT_116</name>
+	<description>5</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Shrubland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.3791666666667,40.6152777777778</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.117">
+	<name>CRATI_GT_117</name>
+	<description>5</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Shrubland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>17.3152777777778,40.8236111111111</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.118">
+	<name>CRATI_GT_118</name>
+	<description>5</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Shrubland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.2569444444445,39.9069444444444</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.119">
+	<name>CRATI_GT_119</name>
+	<description>5</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Shrubland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.5541666666667,40.3125</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.120">
+	<name>CRATI_GT_120</name>
+	<description>5</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Shrubland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.6097222222222,40.1013888888889</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.121">
+	<name>CRATI_GT_121</name>
+	<description>5</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Shrubland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.0041666666667,41.4263888888889</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.122">
+	<name>CRATI_GT_122</name>
+	<description>7</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Grassland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.4208333333334,38.3569444444445</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.123">
+	<name>CRATI_GT_123</name>
+	<description>7</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Grassland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.2958333333334,39.9958333333333</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.124">
+	<name>CRATI_GT_124</name>
+	<description>7</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Grassland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.4263888888889,41.3736111111111</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.125">
+	<name>CRATI_GT_125</name>
+	<description>7</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Grassland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.8291666666667,41.5041666666667</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.126">
+	<name>CRATI_GT_126</name>
+	<description>7</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Grassland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.0541666666667,41.5152777777778</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.127">
+	<name>CRATI_GT_127</name>
+	<description>7</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Grassland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.6097222222222,41.2708333333333</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.128">
+	<name>CRATI_GT_128</name>
+	<description>7</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Grassland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.2180555555556,41.0152777777778</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.129">
+	<name>CRATI_GT_129</name>
+	<description>7</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Grassland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.5597222222222,41.2875</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.130">
+	<name>CRATI_GT_130</name>
+	<description>7</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Grassland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.1875,38.4125</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.131">
+	<name>CRATI_GT_131</name>
+	<description>7</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Grassland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.5819444444445,40.9319444444444</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.132">
+	<name>CRATI_GT_132</name>
+	<description>7</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Grassland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.2375,41.5486111111111</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.133">
+	<name>CRATI_GT_133</name>
+	<description>7</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Grassland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.3097222222222,40.5902777777778</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.134">
+	<name>CRATI_GT_134</name>
+	<description>7</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Grassland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.9486111111111,40.4541666666667</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.135">
+	<name>CRATI_GT_135</name>
+	<description>7</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Grassland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.4791666666667,40.8180555555556</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.136">
+	<name>CRATI_GT_136</name>
+	<description>7</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Grassland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.0069444444445,41.6986111111111</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.137">
+	<name>CRATI_GT_137</name>
+	<description>7</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Grassland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.9319444444445,41.7569444444444</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.138">
+	<name>CRATI_GT_138</name>
+	<description>7</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Grassland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.4152777777778,41.0708333333333</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.139">
+	<name>CRATI_GT_139</name>
+	<description>7</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Grassland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.8763888888889,41.5263888888889</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.140">
+	<name>CRATI_GT_140</name>
+	<description>7</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Grassland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.1125,39.8819444444444</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.141">
+	<name>CRATI_GT_141</name>
+	<description>7</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Grassland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.8486111111111,41.6930555555556</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.142">
+	<name>CRATI_GT_142</name>
+	<description>7</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Grassland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.9736111111111,39.3902777777778</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.143">
+	<name>CRATI_GT_143</name>
+	<description>7</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Grassland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.7847222222222,41.5013888888889</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.144">
+	<name>CRATI_GT_144</name>
+	<description>7</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Grassland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.8125,40.5319444444444</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.145">
+	<name>CRATI_GT_145</name>
+	<description>7</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Grassland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.7652777777778,40.2430555555556</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.146">
+	<name>CRATI_GT_146</name>
+	<description>7</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Grassland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.3958333333333,38.0152777777778</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.147">
+	<name>CRATI_GT_147</name>
+	<description>7</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Grassland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.0069444444445,38.0569444444445</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.148">
+	<name>CRATI_GT_148</name>
+	<description>7</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Grassland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.0458333333333,41.5236111111111</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.149">
+	<name>CRATI_GT_149</name>
+	<description>7</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Grassland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.2736111111111,41.6597222222222</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.150">
+	<name>CRATI_GT_150</name>
+	<description>7</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Grassland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.8569444444445,41.8458333333333</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.151">
+	<name>CRATI_GT_151</name>
+	<description>7</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Grassland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.5513888888889,39.3041666666667</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.152">
+	<name>CRATI_GT_152</name>
+	<description>7</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Grassland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.9236111111111,41.1513888888889</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.153">
+	<name>CRATI_GT_153</name>
+	<description>7</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Grassland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.2375,38.9847222222222</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.154">
+	<name>CRATI_GT_154</name>
+	<description>7</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Grassland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.0625,40.1097222222222</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.155">
+	<name>CRATI_GT_155</name>
+	<description>7</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Grassland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.8125,41.3208333333333</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.156">
+	<name>CRATI_GT_156</name>
+	<description>7</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Grassland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.6402777777778,39.1097222222222</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.157">
+	<name>CRATI_GT_157</name>
+	<description>7</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Grassland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.9680555555556,40.6958333333333</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.158">
+	<name>CRATI_GT_158</name>
+	<description>7</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Grassland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.7736111111111,39.5291666666667</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.159">
+	<name>CRATI_GT_159</name>
+	<description>7</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Grassland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.9541666666667,40.1236111111111</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.160">
+	<name>CRATI_GT_160</name>
+	<description>7</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Grassland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.8847222222222,41.7180555555556</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.161">
+	<name>CRATI_GT_161</name>
+	<description>7</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Grassland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.8708333333334,39.9875</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.162">
+	<name>CRATI_GT_162</name>
+	<description>7</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Grassland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.4958333333333,40.8097222222222</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.163">
+	<name>CRATI_GT_163</name>
+	<description>7</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Grassland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.5375,41.4569444444444</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.164">
+	<name>CRATI_GT_164</name>
+	<description>7</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Grassland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.1958333333333,41.2958333333333</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.165">
+	<name>CRATI_GT_165</name>
+	<description>7</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Grassland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>12.9847222222222,41.6736111111111</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.166">
+	<name>CRATI_GT_166</name>
+	<description>7</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Grassland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.5236111111111,41.7097222222222</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.167">
+	<name>CRATI_GT_167</name>
+	<description>7</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Grassland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.6097222222222,41.3263888888889</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.168">
+	<name>CRATI_GT_168</name>
+	<description>7</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Grassland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.0652777777778,41.4152777777778</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.169">
+	<name>CRATI_GT_169</name>
+	<description>7</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Grassland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.7597222222222,40.7486111111111</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.170">
+	<name>CRATI_GT_170</name>
+	<description>7</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Grassland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.6958333333334,40.8180555555556</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.171">
+	<name>CRATI_GT_171</name>
+	<description>7</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Grassland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.8347222222222,39.8402777777778</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.172">
+	<name>CRATI_GT_172</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.6430555555556,41.6069444444444</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.173">
+	<name>CRATI_GT_173</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.9180555555556,39.1458333333333</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.174">
+	<name>CRATI_GT_174</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.9125,40.8347222222222</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.175">
+	<name>CRATI_GT_175</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.2180555555556,40.2097222222222</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.176">
+	<name>CRATI_GT_176</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.1291666666667,40.6541666666667</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.177">
+	<name>CRATI_GT_177</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.3680555555556,40.3152777777778</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.178">
+	<name>CRATI_GT_178</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.5097222222222,40.7430555555556</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.179">
+	<name>CRATI_GT_179</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.3486111111111,41.2069444444444</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.180">
+	<name>CRATI_GT_180</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.1486111111111,40.4652777777778</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.181">
+	<name>CRATI_GT_181</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.0430555555556,40.4402777777778</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.182">
+	<name>CRATI_GT_182</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>12.5486111111111,41.7402777777778</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.183">
+	<name>CRATI_GT_183</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.5291666666667,41.8013888888889</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.184">
+	<name>CRATI_GT_184</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.5819444444445,40.0652777777778</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.185">
+	<name>CRATI_GT_185</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.5319444444445,41.5569444444444</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.186">
+	<name>CRATI_GT_186</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.7041666666667,40.2347222222222</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.187">
+	<name>CRATI_GT_187</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.1375,38.1458333333333</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.188">
+	<name>CRATI_GT_188</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.6652777777778,40.3291666666667</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.189">
+	<name>CRATI_GT_189</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.0902777777778,38.0958333333333</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.190">
+	<name>CRATI_GT_190</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.9847222222222,41.3125</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.191">
+	<name>CRATI_GT_191</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.7875,39.6069444444445</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.192">
+	<name>CRATI_GT_192</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.2736111111111,41.2875</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.193">
+	<name>CRATI_GT_193</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.7486111111111,38.0847222222222</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.194">
+	<name>CRATI_GT_194</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>17.1208333333334,39.3986111111111</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.195">
+	<name>CRATI_GT_195</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.8652777777778,38.0069444444445</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.196">
+	<name>CRATI_GT_196</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.4819444444445,41.5263888888889</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.197">
+	<name>CRATI_GT_197</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.1736111111111,41.7513888888889</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.198">
+	<name>CRATI_GT_198</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.0708333333334,40.8402777777778</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.199">
+	<name>CRATI_GT_199</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.4763888888889,40.5486111111111</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.200">
+	<name>CRATI_GT_200</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.0125,38.4680555555556</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.201">
+	<name>CRATI_GT_201</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.0569444444445,41.0430555555556</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.202">
+	<name>CRATI_GT_202</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>17.4402777777778,40.3791666666667</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.203">
+	<name>CRATI_GT_203</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.2041666666667,40.9541666666667</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.204">
+	<name>CRATI_GT_204</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.0958333333333,41.6847222222222</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.205">
+	<name>CRATI_GT_205</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.4347222222222,39.6180555555556</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.206">
+	<name>CRATI_GT_206</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.0291666666667,39.6763888888889</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.207">
+	<name>CRATI_GT_207</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.5569444444445,38.4875</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.208">
+	<name>CRATI_GT_208</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.2708333333333,41.0736111111111</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.209">
+	<name>CRATI_GT_209</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.9041666666667,41.2930555555556</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.210">
+	<name>CRATI_GT_210</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.1791666666667,40.2625</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.211">
+	<name>CRATI_GT_211</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.5041666666667,38.6763888888889</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.212">
+	<name>CRATI_GT_212</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.9763888888889,41.2458333333333</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.213">
+	<name>CRATI_GT_213</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.1541666666667,40.0902777777778</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.214">
+	<name>CRATI_GT_214</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>17.4041666666667,40.3930555555556</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.215">
+	<name>CRATI_GT_215</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>12.9652777777778,41.3625</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.216">
+	<name>CRATI_GT_216</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.1069444444445,38.2125</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.217">
+	<name>CRATI_GT_217</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.8375,40.8430555555556</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.218">
+	<name>CRATI_GT_218</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.7819444444445,39.0847222222222</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.219">
+	<name>CRATI_GT_219</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.6597222222222,41.7680555555556</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.220">
+	<name>CRATI_GT_220</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.4236111111111,41.7930555555556</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.221">
+	<name>CRATI_GT_221</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.8708333333334,40.7208333333333</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.222">
+	<name>CRATI_GT_222</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.8402777777778,40.7625</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.223">
+	<name>CRATI_GT_223</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.9791666666667,40.2680555555556</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.224">
+	<name>CRATI_GT_224</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.4041666666667,40.5013888888889</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.225">
+	<name>CRATI_GT_225</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.1680555555556,39.7680555555556</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.226">
+	<name>CRATI_GT_226</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.9791666666667,41.2847222222222</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.227">
+	<name>CRATI_GT_227</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.1458333333333,41.7652777777778</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.228">
+	<name>CRATI_GT_228</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.1486111111111,41.0652777777778</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.229">
+	<name>CRATI_GT_229</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>12.6152777777778,41.5069444444444</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.230">
+	<name>CRATI_GT_230</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.0513888888889,41.0402777777778</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.231">
+	<name>CRATI_GT_231</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.4236111111111,41.8569444444444</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.232">
+	<name>CRATI_GT_232</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.3069444444445,38.0513888888889</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.233">
+	<name>CRATI_GT_233</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.2958333333333,40.8541666666667</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.234">
+	<name>CRATI_GT_234</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.5097222222222,41.7097222222222</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.235">
+	<name>CRATI_GT_235</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.4180555555556,41.4180555555556</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.236">
+	<name>CRATI_GT_236</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.7430555555556,41.0319444444444</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.237">
+	<name>CRATI_GT_237</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.2902777777778,41.6486111111111</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.238">
+	<name>CRATI_GT_238</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.5486111111111,40.6291666666667</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.239">
+	<name>CRATI_GT_239</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.5875,40.3236111111111</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.240">
+	<name>CRATI_GT_240</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>17.3819444444445,40.4291666666667</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.241">
+	<name>CRATI_GT_241</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.8486111111111,41.5486111111111</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.242">
+	<name>CRATI_GT_242</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.2041666666667,40.6486111111111</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.243">
+	<name>CRATI_GT_243</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.0236111111111,41.5069444444444</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.244">
+	<name>CRATI_GT_244</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.0680555555556,41.7930555555556</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.245">
+	<name>CRATI_GT_245</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.3125,41.2013888888889</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.246">
+	<name>CRATI_GT_246</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.0708333333333,38.0791666666667</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.247">
+	<name>CRATI_GT_247</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.3069444444445,39.7347222222222</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.248">
+	<name>CRATI_GT_248</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.4041666666667,40.1986111111111</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.249">
+	<name>CRATI_GT_249</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.9847222222222,41.2791666666667</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.250">
+	<name>CRATI_GT_250</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.3263888888889,40.8402777777778</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.251">
+	<name>CRATI_GT_251</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.1708333333333,41.1763888888889</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.252">
+	<name>CRATI_GT_252</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.3569444444445,39.6152777777778</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.253">
+	<name>CRATI_GT_253</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.5875,41.4486111111111</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.254">
+	<name>CRATI_GT_254</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.6569444444445,41.2708333333333</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.255">
+	<name>CRATI_GT_255</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.7458333333334,40.9708333333333</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.256">
+	<name>CRATI_GT_256</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>12.8652777777778,41.6208333333333</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.257">
+	<name>CRATI_GT_257</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>17.3652777777778,40.5652777777778</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.258">
+	<name>CRATI_GT_258</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.2013888888889,40.3680555555556</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.259">
+	<name>CRATI_GT_259</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.3486111111111,40.1208333333333</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.260">
+	<name>CRATI_GT_260</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.3847222222222,40.4347222222222</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.261">
+	<name>CRATI_GT_261</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.3791666666667,41.5902777777778</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.262">
+	<name>CRATI_GT_262</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.0513888888889,41.7513888888889</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.263">
+	<name>CRATI_GT_263</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.8541666666667,41.6180555555556</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.264">
+	<name>CRATI_GT_264</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>12.9847222222222,41.4625</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.265">
+	<name>CRATI_GT_265</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.0041666666667,40.8569444444444</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.266">
+	<name>CRATI_GT_266</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.2847222222222,41.0013888888889</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.267">
+	<name>CRATI_GT_267</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.5875,41.5597222222222</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.268">
+	<name>CRATI_GT_268</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.8652777777778,41.1541666666667</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.269">
+	<name>CRATI_GT_269</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.4513888888889,41.1763888888889</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.270">
+	<name>CRATI_GT_270</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.5291666666667,40.4402777777778</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.271">
+	<name>CRATI_GT_271</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.5430555555556,41.1652777777778</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.272">
+	<name>CRATI_GT_272</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.1597222222222,39.8236111111111</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.273">
+	<name>CRATI_GT_273</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.1291666666667,41.1652777777778</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.274">
+	<name>CRATI_GT_274</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>17.4958333333334,40.6041666666667</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.275">
+	<name>CRATI_GT_275</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.0986111111111,41.2263888888889</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.276">
+	<name>CRATI_GT_276</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.0625,41.2180555555556</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.277">
+	<name>CRATI_GT_277</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.9041666666667,41.8486111111111</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.278">
+	<name>CRATI_GT_278</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.4958333333334,40.6513888888889</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.279">
+	<name>CRATI_GT_279</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.4569444444445,39.8319444444444</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.280">
+	<name>CRATI_GT_280</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>17.4875,40.4763888888889</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.281">
+	<name>CRATI_GT_281</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>12.7180555555556,38.0708333333333</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.282">
+	<name>CRATI_GT_282</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.9125,40.2680555555556</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.283">
+	<name>CRATI_GT_283</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.9430555555556,41.1013888888889</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.284">
+	<name>CRATI_GT_284</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.3930555555556,39.7930555555556</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.285">
+	<name>CRATI_GT_285</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.3347222222222,38.1236111111111</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.286">
+	<name>CRATI_GT_286</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.9986111111111,40.9930555555556</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.287">
+	<name>CRATI_GT_287</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.1013888888889,40.5097222222222</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.288">
+	<name>CRATI_GT_288</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.9180555555556,38.4236111111111</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.289">
+	<name>CRATI_GT_289</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.6319444444445,41.4930555555556</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.290">
+	<name>CRATI_GT_290</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.1541666666667,39.6347222222222</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.291">
+	<name>CRATI_GT_291</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.6680555555556,40.8736111111111</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.292">
+	<name>CRATI_GT_292</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.3625,39.6402777777778</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.293">
+	<name>CRATI_GT_293</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.3541666666667,40.0763888888889</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.294">
+	<name>CRATI_GT_294</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.1069444444445,38.6430555555556</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.295">
+	<name>CRATI_GT_295</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.3847222222222,38.0013888888889</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.296">
+	<name>CRATI_GT_296</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.3486111111111,41.0680555555556</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.297">
+	<name>CRATI_GT_297</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.7013888888889,41.0236111111111</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.298">
+	<name>CRATI_GT_298</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.3958333333333,40.8680555555556</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.299">
+	<name>CRATI_GT_299</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.8736111111111,40.9625</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.300">
+	<name>CRATI_GT_300</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.8430555555556,41.5486111111111</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.301">
+	<name>CRATI_GT_301</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.3569444444445,41.0125</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.302">
+	<name>CRATI_GT_302</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.9152777777778,39.2736111111111</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.303">
+	<name>CRATI_GT_303</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.6597222222222,41.8375</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.304">
+	<name>CRATI_GT_304</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.9569444444445,41.6763888888889</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.305">
+	<name>CRATI_GT_305</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.5597222222222,40.0708333333333</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.306">
+	<name>CRATI_GT_306</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.6875,41.4319444444444</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.307">
+	<name>CRATI_GT_307</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.4819444444445,40.7680555555556</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.308">
+	<name>CRATI_GT_308</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.1013888888889,38.0597222222222</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.309">
+	<name>CRATI_GT_309</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>12.5375,41.7680555555556</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.310">
+	<name>CRATI_GT_310</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.5069444444445,41.3347222222222</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.311">
+	<name>CRATI_GT_311</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.8486111111111,39.5041666666667</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.312">
+	<name>CRATI_GT_312</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.7625,41.4652777777778</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.313">
+	<name>CRATI_GT_313</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.2236111111111,40.9680555555556</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.314">
+	<name>CRATI_GT_314</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.3125,39.5375</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.315">
+	<name>CRATI_GT_315</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.7402777777778,40.8986111111111</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.316">
+	<name>CRATI_GT_316</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.5402777777778,41.5375</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.317">
+	<name>CRATI_GT_317</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.0291666666667,41.7097222222222</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.318">
+	<name>CRATI_GT_318</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.2236111111111,41.3986111111111</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.319">
+	<name>CRATI_GT_319</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.2486111111111,41.4430555555556</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.320">
+	<name>CRATI_GT_320</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.9625,38.6041666666667</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.321">
+	<name>CRATI_GT_321</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.7541666666667,41.6625</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.322">
+	<name>CRATI_GT_322</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.2375,40.3152777777778</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.323">
+	<name>CRATI_GT_323</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.9208333333334,40.2819444444444</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.324">
+	<name>CRATI_GT_324</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.0291666666667,41.2402777777778</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.325">
+	<name>CRATI_GT_325</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>12.9680555555556,41.4763888888889</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.326">
+	<name>CRATI_GT_326</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.0847222222222,41.7097222222222</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.327">
+	<name>CRATI_GT_327</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.4236111111111,41.2180555555556</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.328">
+	<name>CRATI_GT_328</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.7430555555556,41.6263888888889</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.329">
+	<name>CRATI_GT_329</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.6375,40.8958333333333</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.330">
+	<name>CRATI_GT_330</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.7263888888889,40.9263888888889</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.331">
+	<name>CRATI_GT_331</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.4847222222222,41.4069444444444</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.332">
+	<name>CRATI_GT_332</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.8347222222222,41.8819444444444</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.333">
+	<name>CRATI_GT_333</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.7291666666667,41.0458333333333</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.334">
+	<name>CRATI_GT_334</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.4236111111111,40.6486111111111</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.335">
+	<name>CRATI_GT_335</name>
+	<description>8</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Cropland</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.4958333333334,40.2291666666667</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.336">
+	<name>CRATI_GT_336</name>
+	<description>13</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Other</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.5569444444445,41.8097222222222</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.337">
+	<name>CRATI_GT_337</name>
+	<description>13</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Other</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.5819444444445,40.8180555555556</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.338">
+	<name>CRATI_GT_338</name>
+	<description>13</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Other</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.9486111111111,41.0347222222222</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.339">
+	<name>CRATI_GT_339</name>
+	<description>13</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Other</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.5791666666667,40.7347222222222</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.340">
+	<name>CRATI_GT_340</name>
+	<description>13</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Other</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.7652777777778,41.1569444444444</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.341">
+	<name>CRATI_GT_341</name>
+	<description>13</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Other</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.2791666666667,38.2486111111111</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.342">
+	<name>CRATI_GT_342</name>
+	<description>12</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Other</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.6541666666667,38.0652777777778</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.343">
+	<name>CRATI_GT_343</name>
+	<description>13</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Other</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.1263888888889,40.9930555555556</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.344">
+	<name>CRATI_GT_344</name>
+	<description>13</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Other</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.3347222222222,41.0625</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.345">
+	<name>CRATI_GT_345</name>
+	<description>13</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Other</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>17.3097222222222,40.9375</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.346">
+	<name>CRATI_GT_346</name>
+	<description>12</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Other</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.9013888888889,38.1819444444445</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.347">
+	<name>CRATI_GT_347</name>
+	<description>13</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Other</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.1458333333333,40.9041666666667</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.348">
+	<name>CRATI_GT_348</name>
+	<description>12</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Other</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>17.2319444444445,40.4236111111111</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.349">
+	<name>CRATI_GT_349</name>
+	<description>13</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Other</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>12.3541666666667,41.7597222222222</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.350">
+	<name>CRATI_GT_350</name>
+	<description>13</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Other</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.2013888888889,40.9958333333333</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.351">
+	<name>CRATI_GT_351</name>
+	<description>13</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Other</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.5680555555556,38.1902777777778</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.352">
+	<name>CRATI_GT_352</name>
+	<description>12</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Other</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.5930555555556,38.5569444444445</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.353">
+	<name>CRATI_GT_353</name>
+	<description>12</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Other</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.9402777777778,41.6152777777778</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.354">
+	<name>CRATI_GT_354</name>
+	<description>13</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Other</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.0569444444445,40.8069444444444</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.355">
+	<name>CRATI_GT_355</name>
+	<description>13</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Other</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.6208333333333,40.7819444444444</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.356">
+	<name>CRATI_GT_356</name>
+	<description>13</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Other</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.4986111111111,41.1097222222222</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.357">
+	<name>CRATI_GT_357</name>
+	<description>13</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Other</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.0402777777778,40.8875</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.358">
+	<name>CRATI_GT_358</name>
+	<description>13</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Other</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.9513888888889,38.4847222222222</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.359">
+	<name>CRATI_GT_359</name>
+	<description>12</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Other</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.8597222222222,39.5430555555556</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.360">
+	<name>CRATI_GT_360</name>
+	<description>13</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Other</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.9791666666667,40.6097222222222</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.361">
+	<name>CRATI_GT_361</name>
+	<description>13</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Other</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.3875,40.9041666666667</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.362">
+	<name>CRATI_GT_362</name>
+	<description>12</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Other</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.0902777777778,41.2541666666667</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.363">
+	<name>CRATI_GT_363</name>
+	<description>13</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Other</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>17.1819444444445,40.4958333333333</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.364">
+	<name>CRATI_GT_364</name>
+	<description>12</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Other</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>17.1402777777778,39.3847222222222</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.365">
+	<name>CRATI_GT_365</name>
+	<description>12</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Other</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.3541666666667,41.3013888888889</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.366">
+	<name>CRATI_GT_366</name>
+	<description>13</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Other</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.5069444444445,38.0902777777778</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.367">
+	<name>CRATI_GT_367</name>
+	<description>13</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Other</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.7125,41.0652777777778</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.368">
+	<name>CRATI_GT_368</name>
+	<description>12</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Other</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.4208333333334,40.1402777777778</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.369">
+	<name>CRATI_GT_369</name>
+	<description>13</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Other</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.4430555555556,40.9486111111111</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.370">
+	<name>CRATI_GT_370</name>
+	<description>13</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Other</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>12.4708333333333,41.8625</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.371">
+	<name>CRATI_GT_371</name>
+	<description>13</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Other</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.2986111111111,38.1375</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.372">
+	<name>CRATI_GT_372</name>
+	<description>13</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Other</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.3319444444445,38.1152777777778</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.373">
+	<name>CRATI_GT_373</name>
+	<description>13</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Other</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.9180555555556,40.9763888888889</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.374">
+	<name>CRATI_GT_374</name>
+	<description>13</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Other</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.3569444444445,41.0708333333333</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.375">
+	<name>CRATI_GT_375</name>
+	<description>13</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Other</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.3097222222222,41.0125</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.376">
+	<name>CRATI_GT_376</name>
+	<description>13</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Other</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.6902777777778,40.7291666666667</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.377">
+	<name>CRATI_GT_377</name>
+	<description>13</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Other</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.1152777777778,38.0541666666667</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.378">
+	<name>CRATI_GT_378</name>
+	<description>13</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Other</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>12.5902777777778,41.5597222222222</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.379">
+	<name>CRATI_GT_379</name>
+	<description>13</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Other</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.0625,40.7902777777778</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.380">
+	<name>CRATI_GT_380</name>
+	<description>12</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Other</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.6791666666667,38.0986111111111</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.381">
+	<name>CRATI_GT_381</name>
+	<description>13</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Other</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.6319444444445,38.0652777777778</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.382">
+	<name>CRATI_GT_382</name>
+	<description>13</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Other</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.2319444444445,40.6902777777778</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.383">
+	<name>CRATI_GT_383</name>
+	<description>13</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Other</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.1930555555556,41.2736111111111</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.384">
+	<name>CRATI_GT_384</name>
+	<description>13</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Other</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.6569444444445,38.1541666666667</coordinates></Point>
+  </Placemark>
+  <Placemark id="ground_truth_samples_crati_ESA_final.385">
+	<name>CRATI_GT_385</name>
+	<description>12</description>
+	<ExtendedData><SchemaData schemaUrl="#ground_truth_samples_crati_ESA_final">
+		<SimpleData name="Point_ID">Other</SimpleData>
+		<SimpleData name="Map_Class_Code">0</SimpleData>
+		<SimpleData name="Map_Class_Name"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.8875,39.8875</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

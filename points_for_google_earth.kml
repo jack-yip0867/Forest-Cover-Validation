@@ -1,0 +1,3090 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="points_for_google_earth" id="points_for_google_earth">
+	<SimpleField name="class_name" type="string"></SimpleField>
+	<SimpleField name="GE_observed_class" type="string"></SimpleField>
+</Schema>
+<Folder><name>points_for_google_earth</name>
+  <Placemark id="points_for_google_earth.1">
+	<name>Forest</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.3291666666667,40.6791666666667</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.2">
+	<name>Forest</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.8875,39.6430555555555</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.3">
+	<name>Forest</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.8819444444445,38.3125</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.4">
+	<name>Forest</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.9541666666667,40.5180555555555</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.5">
+	<name>Forest</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.7319444444445,40.5180555555555</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.6">
+	<name>Forest</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.1097222222222,41.5902777777778</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.7">
+	<name>Forest</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.5513888888889,40.4569444444444</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.8">
+	<name>Forest</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.2402777777778,39.0430555555556</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.9">
+	<name>Forest</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.7430555555556,40.5569444444444</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.10">
+	<name>Forest</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.0291666666667,39.4180555555556</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.11">
+	<name>Forest</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_11</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.4736111111111,39.0263888888889</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.12">
+	<name>Forest</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.5430555555556,39.1847222222222</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.13">
+	<name>Forest</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_13</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.7625,39.0625</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.14">
+	<name>Forest</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_14</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.4736111111111,40.1680555555556</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.15">
+	<name>Forest</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_15</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.3541666666667,39.1513888888889</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.16">
+	<name>Forest</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_16</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.0152777777778,41.8041666666667</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.17">
+	<name>Forest</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_17</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.0125,40.5763888888889</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.18">
+	<name>Forest</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.9986111111111,39.9291666666667</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.19">
+	<name>Forest</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.7263888888889,41.5236111111111</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.20">
+	<name>Forest</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_20</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.3430555555556,41.6819444444444</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.21">
+	<name>Forest</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_21</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.3458333333333,39.4763888888889</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.22">
+	<name>Forest</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.5763888888889,39.0013888888889</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.23">
+	<name>Forest</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.4319444444444,39.2736111111111</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.24">
+	<name>Forest</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_24</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.2736111111111,38.4319444444444</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.25">
+	<name>Forest</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_25</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.3541666666667,41.1875</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.26">
+	<name>Forest</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_26</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.4319444444444,41.7958333333333</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.27">
+	<name>Forest</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_27</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.2708333333333,38.4958333333333</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.28">
+	<name>Forest</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.3541666666667,41.3902777777778</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.29">
+	<name>Forest</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_29</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.9097222222222,41.7652777777778</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.30">
+	<name>Forest</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_30</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.0680555555556,39.3236111111111</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.31">
+	<name>Forest</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_31</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.1541666666667,40.4236111111111</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.32">
+	<name>Forest</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_32</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.7819444444445,38.0763888888889</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.33">
+	<name>Forest</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_33</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.6541666666667,39.2263888888889</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.34">
+	<name>Forest</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_34</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.3902777777778,38.7597222222222</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.35">
+	<name>Forest</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_35</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.9263888888889,40.2430555555556</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.36">
+	<name>Forest</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_36</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.9180555555556,41.8375</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.37">
+	<name>Forest</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_37</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.2847222222222,40.3236111111111</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.38">
+	<name>Forest</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_38</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.1402777777778,38.3402777777778</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.39">
+	<name>Forest</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_39</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.0680555555556,40.1458333333333</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.40">
+	<name>Forest</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_40</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.7708333333333,40.4458333333333</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.41">
+	<name>Forest</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_41</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.3097222222222,40.1902777777778</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.42">
+	<name>Forest</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_42</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.7319444444445,39.2013888888889</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.43">
+	<name>Forest</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_43</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.9819444444445,39.5708333333333</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.44">
+	<name>Forest</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_44</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.7180555555556,40.5513888888889</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.45">
+	<name>Forest</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_45</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.7041666666667,41.6013888888889</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.46">
+	<name>Forest</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_46</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.2458333333333,39.9236111111111</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.47">
+	<name>Forest</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.2041666666667,41.5430555555556</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.48">
+	<name>Forest</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_48</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.7541666666667,38.2319444444445</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.49">
+	<name>Forest</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_49</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.1986111111111,41.6180555555556</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.50">
+	<name>Forest</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_50</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.2986111111111,39.5319444444445</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.51">
+	<name>Forest</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_51</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.3236111111111,38.7569444444445</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.52">
+	<name>Forest</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.6486111111111,39.3541666666667</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.53">
+	<name>Forest</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_53</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.3236111111111,39.4875</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.54">
+	<name>Forest</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_54</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.8597222222222,39.7875</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.55">
+	<name>Forest</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_55</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.8069444444444,41.3902777777778</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.56">
+	<name>Forest</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_56</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.1625,40.1958333333333</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.57">
+	<name>Forest</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_57</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.1125,40.7069444444444</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.58">
+	<name>Forest</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_58</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.1347222222222,41.7569444444445</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.59">
+	<name>Forest</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_59</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.9819444444445,40.5319444444445</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.60">
+	<name>Forest</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_60</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.1402777777778,40.2819444444445</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.61">
+	<name>Forest</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_61</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.8152777777778,40.8347222222222</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.62">
+	<name>Forest</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.9597222222222,40.8986111111111</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.63">
+	<name>Forest</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_63</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.8013888888889,39.2819444444445</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.64">
+	<name>Forest</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_64</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.7375,40.4708333333333</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.65">
+	<name>Forest</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_65</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.3263888888889,41.5041666666667</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.66">
+	<name>Forest</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_66</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.4430555555556,40.8069444444444</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.67">
+	<name>Forest</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_67</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.7763888888889,41.7597222222222</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.68">
+	<name>Forest</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_68</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.1625,40.3319444444444</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.69">
+	<name>Forest</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_69</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.5930555555556,39.2708333333333</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.70">
+	<name>Forest</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_70</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.5652777777778,39.3291666666667</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.71">
+	<name>Forest</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_71</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>12.7569444444445,41.7513888888889</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.72">
+	<name>Forest</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.4652777777778,38.0958333333333</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.73">
+	<name>Forest</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_73</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.2902777777778,39.2097222222222</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.74">
+	<name>Forest</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.1763888888889,41.6847222222222</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.75">
+	<name>Forest</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_75</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.7125,40.7902777777778</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.76">
+	<name>Forest</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_76</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.8652777777778,41.7819444444445</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.77">
+	<name>Forest</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_77</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.6680555555556,40.5375</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.78">
+	<name>Forest</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_78</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.0680555555556,40.9152777777778</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.79">
+	<name>Forest</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_79</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.4152777777778,38.1069444444445</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.80">
+	<name>Forest</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_80</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.2263888888889,38.5263888888889</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.81">
+	<name>Forest</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_81</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.8625,40.7930555555556</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.82">
+	<name>Forest</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_82</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.1625,40.8013888888889</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.83">
+	<name>Forest</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_83</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.9875,39.8652777777778</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.84">
+	<name>Forest</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_84</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.8069444444444,41.4763888888889</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.85">
+	<name>Forest</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_85</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.5125,39.5486111111111</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.86">
+	<name>Shrubland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_86</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>17.0291666666667,38.9652777777778</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.87">
+	<name>Shrubland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_87</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.2180555555556,38.0375</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.88">
+	<name>Shrubland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_88</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.5125,40.3541666666667</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.89">
+	<name>Shrubland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_89</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>17.1347222222222,40.6375</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.90">
+	<name>Shrubland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_90</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.3319444444444,40.5041666666667</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.91">
+	<name>Shrubland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_91</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.2319444444445,40.1930555555556</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.92">
+	<name>Shrubland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_92</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.9041666666667,38.0847222222222</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.93">
+	<name>Shrubland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_93</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.9430555555556,41.6958333333333</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.94">
+	<name>Shrubland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_94</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.2291666666667,41.4208333333333</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.95">
+	<name>Shrubland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_95</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.5569444444444,40.0819444444444</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.96">
+	<name>Shrubland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_96</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.2402777777778,41.3930555555555</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.97">
+	<name>Shrubland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_97</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.8541666666667,40.5902777777778</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.98">
+	<name>Shrubland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_98</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.6958333333334,40.0847222222222</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.99">
+	<name>Shrubland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_99</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.9069444444445,41.6652777777778</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.100">
+	<name>Shrubland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_100</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.9097222222222,38.0819444444444</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.101">
+	<name>Shrubland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_101</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.8069444444444,40.1819444444444</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.102">
+	<name>Shrubland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_102</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.3263888888889,38.0597222222222</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.103">
+	<name>Shrubland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_103</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.8263888888889,38.5736111111111</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.104">
+	<name>Shrubland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_104</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.5291666666667,40.3208333333333</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.105">
+	<name>Shrubland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_105</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.2263888888889,40.5569444444444</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.106">
+	<name>Shrubland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_106</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.0208333333333,38.2597222222222</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.107">
+	<name>Shrubland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_107</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.2236111111111,38.0263888888889</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.108">
+	<name>Shrubland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_108</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.5541666666667,40.3263888888889</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.109">
+	<name>Shrubland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_109</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.9375,41.7125</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.110">
+	<name>Shrubland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_110</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.5152777777778,40.3513888888889</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.111">
+	<name>Shrubland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_111</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.5097222222222,38.2625</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.112">
+	<name>Shrubland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_112</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.1319444444445,40.1986111111111</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.113">
+	<name>Shrubland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_113</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.5513888888889,40.1902777777778</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.114">
+	<name>Shrubland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_114</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.5486111111111,41.6930555555556</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.115">
+	<name>Shrubland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.2513888888889,41.3819444444445</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.116">
+	<name>Shrubland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_116</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.9375,38.4597222222222</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.117">
+	<name>Shrubland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_117</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.4875,40.4236111111111</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.118">
+	<name>Shrubland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_118</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.6458333333333,40.0791666666667</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.119">
+	<name>Shrubland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_119</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.4180555555556,38.3347222222222</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.120">
+	<name>Shrubland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_120</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.9569444444444,38.4875</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.121">
+	<name>Shrubland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_121</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.6930555555556,38.2375</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.122">
+	<name>Shrubland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_122</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.7097222222222,38.2486111111111</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.123">
+	<name>Shrubland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_123</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.7458333333333,41.5430555555556</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.124">
+	<name>Shrubland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_124</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.8736111111111,41.8680555555556</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.125">
+	<name>Shrubland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_125</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.5569444444444,41.6847222222222</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.126">
+	<name>Shrubland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_126</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.5513888888889,40.3125</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.127">
+	<name>Shrubland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_127</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.4902777777778,38.4958333333333</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.128">
+	<name>Shrubland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_128</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.3847222222222,39.8319444444444</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.129">
+	<name>Shrubland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_129</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.1986111111111,38.0402777777778</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.130">
+	<name>Shrubland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_130</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.3986111111111,40.5375</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.131">
+	<name>Shrubland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_131</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.5680555555556,38.5708333333333</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.132">
+	<name>Shrubland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_132</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.7069444444444,40.0847222222222</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.133">
+	<name>Shrubland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_133</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.3402777777778,38.0902777777778</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.134">
+	<name>Shrubland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_134</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.5486111111111,38.5625</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.135">
+	<name>Shrubland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_135</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.6513888888889,39.4680555555556</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.136">
+	<name>Shrubland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_136</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.2236111111111,40.1763888888889</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.137">
+	<name>Grassland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_137</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.9125,41.8597222222222</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.138">
+	<name>Grassland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_138</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.7930555555556,41.4930555555556</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.139">
+	<name>Grassland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_139</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.0180555555556,38.2347222222222</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.140">
+	<name>Grassland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_140</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.3430555555556,41.8875</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.141">
+	<name>Grassland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_141</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>17.3986111111111,40.4180555555556</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.142">
+	<name>Grassland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_142</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.9069444444445,40.6875</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.143">
+	<name>Grassland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_143</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.3458333333333,40.9597222222222</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.144">
+	<name>Grassland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_144</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.4069444444445,38.0652777777778</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.145">
+	<name>Grassland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_145</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.3708333333333,40.7763888888889</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.146">
+	<name>Grassland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_146</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.4291666666667,40.0125</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.147">
+	<name>Grassland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_147</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.7069444444444,40.7736111111111</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.148">
+	<name>Grassland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_148</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.6875,40.7597222222222</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.149">
+	<name>Grassland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_149</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.8958333333333,40.4458333333333</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.150">
+	<name>Grassland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_150</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.0652777777778,40.0541666666667</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.151">
+	<name>Grassland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_151</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.5875,41.7708333333333</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.152">
+	<name>Grassland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_152</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.0180555555556,41.8013888888889</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.153">
+	<name>Grassland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_153</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.7986111111111,40.2152777777778</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.154">
+	<name>Grassland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_154</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.2402777777778,41.4708333333333</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.155">
+	<name>Grassland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_155</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.4152777777778,41.4208333333333</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.156">
+	<name>Grassland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_156</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.4041666666667,40.2319444444445</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.157">
+	<name>Grassland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_157</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.9041666666667,39.1013888888889</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.158">
+	<name>Grassland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_158</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.8152777777778,40.5652777777778</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.159">
+	<name>Grassland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_159</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.7375,39.5402777777778</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.160">
+	<name>Grassland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_160</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.2763888888889,40.9708333333333</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.161">
+	<name>Grassland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_161</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.3097222222222,41.7930555555556</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.162">
+	<name>Grassland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_162</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.0930555555556,41.5430555555556</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.163">
+	<name>Grassland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_163</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.1097222222222,38.0402777777778</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.164">
+	<name>Grassland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_164</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.9625,41.7569444444445</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.165">
+	<name>Grassland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_165</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.4569444444444,40.8513888888889</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.166">
+	<name>Grassland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_166</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.9291666666667,41.1597222222222</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.167">
+	<name>Grassland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_167</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.9569444444444,41.6263888888889</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.168">
+	<name>Grassland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_168</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.4208333333333,41.6152777777778</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.169">
+	<name>Grassland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_169</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.0875,41.0902777777778</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.170">
+	<name>Grassland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_170</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.7097222222222,40.4291666666667</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.171">
+	<name>Grassland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_171</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.0402777777778,41.8736111111111</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.172">
+	<name>Grassland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_172</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.3875,40.9986111111111</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.173">
+	<name>Grassland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_173</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.4513888888889,40.7291666666667</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.174">
+	<name>Grassland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_174</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.3402777777778,41.0152777777778</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.175">
+	<name>Grassland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_175</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.7347222222222,41.4569444444444</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.176">
+	<name>Grassland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_176</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.4458333333334,41.8013888888889</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.177">
+	<name>Grassland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_177</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.3458333333333,41.5097222222222</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.178">
+	<name>Grassland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_178</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.2513888888889,41.4319444444444</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.179">
+	<name>Grassland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_179</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.2652777777778,38.0736111111111</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.180">
+	<name>Grassland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_180</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.2347222222222,41.0986111111111</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.181">
+	<name>Grassland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_181</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.6069444444445,40.9458333333333</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.182">
+	<name>Grassland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_182</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.2402777777778,41.8736111111111</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.183">
+	<name>Grassland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_183</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.7486111111111,41.5958333333333</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.184">
+	<name>Grassland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_184</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.4569444444444,41.8208333333333</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.185">
+	<name>Grassland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_185</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.2180555555556,38.1208333333333</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.186">
+	<name>Grassland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_186</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.4097222222222,38.1180555555556</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.187">
+	<name>Grassland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_187</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.4625,40.4069444444445</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.188">
+	<name>Grassland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_188</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.7097222222222,41.3958333333333</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.189">
+	<name>Grassland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_189</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.9347222222222,41.4986111111111</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.190">
+	<name>Grassland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_190</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.1902777777778,41.7430555555556</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.191">
+	<name>Grassland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_191</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.8652777777778,39.9208333333333</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.192">
+	<name>Grassland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_192</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.2930555555556,41.3208333333333</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.193">
+	<name>Grassland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_193</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.2597222222222,39.8486111111111</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.194">
+	<name>Grassland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_194</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.8847222222222,41.8347222222222</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.195">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_195</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.7069444444444,41.0819444444444</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.196">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_196</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.9430555555556,41.5625</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.197">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_197</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.5180555555556,41.3347222222222</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.198">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_198</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.4930555555556,41.6291666666667</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.199">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_199</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>12.4958333333333,41.7902777777778</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.200">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_200</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.8097222222222,40.7208333333333</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.201">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_201</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.2847222222222,40.8652777777778</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.202">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_202</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.6791666666667,40.1930555555556</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.203">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_203</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.5513888888889,41.2430555555556</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.204">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_204</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.7763888888889,39.5347222222222</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.205">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_205</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.5152777777778,41.6597222222222</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.206">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_206</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.7263888888889,41.6263888888889</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.207">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_207</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>12.7375,38.1541666666667</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.208">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_208</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.5402777777778,40.4208333333333</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.209">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_209</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.3541666666667,41.3291666666667</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.210">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_210</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.7597222222222,40.0319444444445</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.211">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_211</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.2652777777778,41.5347222222222</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.212">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_212</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.5486111111111,41.7208333333333</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.213">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_213</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.1236111111111,41.2902777777778</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.214">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_214</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.6180555555556,41.6041666666667</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.215">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_215</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.8180555555556,41.5486111111111</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.216">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_216</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>12.7347222222222,38.1013888888889</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.217">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_217</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.3791666666667,41.0680555555556</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.218">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_218</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.2930555555556,38.0125</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.219">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_219</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.7930555555556,40.3597222222222</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.220">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_220</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.4680555555556,39.1875</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.221">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_221</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.0625,40.4986111111111</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.222">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_222</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.2263888888889,38.6208333333333</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.223">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_223</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>12.8958333333333,41.6486111111111</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.224">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_224</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.0430555555556,41.5875</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.225">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_225</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.0569444444444,41.7458333333333</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.226">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_226</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.7375,41.4069444444445</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.227">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_227</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.3041666666667,39.1097222222222</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.228">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_228</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.3458333333333,39.2958333333333</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.229">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_229</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.3152777777778,40.3347222222222</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.230">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_230</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.2708333333333,39.9041666666667</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.231">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_231</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.1652777777778,41.8541666666667</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.232">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_232</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.6847222222222,38.0847222222222</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.233">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_233</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.4347222222222,41.0541666666667</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.234">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_234</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.4597222222222,39.7402777777778</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.235">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_235</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.8819444444445,41.4347222222222</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.236">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_236</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>17.3763888888889,40.6430555555555</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.237">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_237</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.4263888888889,40.1430555555555</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.238">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_238</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.9597222222222,38.5375</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.239">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_239</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.2236111111111,40.9541666666667</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.240">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_240</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.2902777777778,41.2819444444445</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.241">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_241</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.4486111111111,40.9180555555556</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.242">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_242</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.8291666666667,39.2597222222222</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.243">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_243</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.7541666666667,41.6263888888889</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.244">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_244</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.3208333333334,40.8125</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.245">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_245</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.0680555555556,40.7069444444444</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.246">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_246</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.3819444444445,41.5013888888889</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.247">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_247</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.5430555555556,41.3319444444444</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.248">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_248</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.4569444444444,41.6736111111111</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.249">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_249</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.5402777777778,41.4125</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.250">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_250</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.4736111111111,41.1236111111111</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.251">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_251</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.3763888888889,41.3458333333333</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.252">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_252</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.9930555555556,39.4736111111111</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.253">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_253</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.0291666666667,40.9930555555556</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.254">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_254</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.5236111111111,41.6402777777778</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.255">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_255</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.0708333333334,41.1652777777778</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.256">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_256</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.4125,41.8541666666667</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.257">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_257</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>12.5458333333333,41.8347222222222</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.258">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_258</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.7652777777778,41.3597222222222</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.259">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_259</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.1263888888889,41.4486111111111</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.260">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_260</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.9902777777778,38.5569444444444</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.261">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_261</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>17.2819444444445,40.7208333333333</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.262">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_262</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.3125,41.3069444444444</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.263">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_263</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.6319444444445,41.5375</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.264">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_264</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.4680555555556,41.1791666666667</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.265">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_265</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.8208333333334,40.8875</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.266">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_266</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.2958333333333,40.2486111111111</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.267">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_267</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.6819444444444,40.9319444444444</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.268">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_268</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.9319444444444,41.3486111111111</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.269">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_269</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.9986111111111,41.6430555555555</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.270">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_270</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.3958333333333,40.7013888888889</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.271">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_271</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.1597222222222,41.0541666666667</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.272">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_272</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>12.5763888888889,41.6430555555555</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.273">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_273</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.0319444444445,41.6736111111111</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.274">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_274</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.1458333333333,41.7125</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.275">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_275</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.1236111111111,41.4430555555556</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.276">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_276</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.8069444444444,39.2569444444445</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.277">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_277</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.0597222222222,38.5541666666667</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.278">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_278</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.3569444444445,38.1402777777778</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.279">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_279</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.3680555555556,40.4097222222222</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.280">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_280</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.0069444444445,38.0041666666667</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.281">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_281</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.2152777777778,39.9125</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.282">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_282</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>17.0347222222222,39.0125</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.283">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_283</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.3458333333333,41.6680555555556</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.284">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_284</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.7236111111111,41.6125</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.285">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_285</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.6013888888889,40.6430555555555</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.286">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_286</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.8708333333333,39.6208333333333</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.287">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_287</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.0375,41.0013888888889</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.288">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_288</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.4069444444445,39.6513888888889</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.289">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_289</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.4930555555556,40.5791666666667</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.290">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_290</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.6513888888889,40.5458333333333</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.291">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_291</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.0708333333334,38.1180555555556</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.292">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_292</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.9958333333333,41.3708333333333</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.293">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_293</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>12.7791666666667,41.8819444444445</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.294">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_294</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.5875,41.8375</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.295">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_295</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.9125,38.6180555555556</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.296">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_296</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>17.4319444444444,40.5819444444444</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.297">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_297</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.4347222222222,40.4347222222222</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.298">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_298</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.7152777777778,40.3069444444444</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.299">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_299</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.3013888888889,41.0569444444444</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.300">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_300</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.3708333333333,40.6041666666667</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.301">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_301</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.9986111111111,40.9291666666667</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.302">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_302</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.8319444444444,40.3319444444444</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.303">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_303</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.1180555555556,38.1625</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.304">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_304</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.7319444444445,39.6125</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.305">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_305</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.3875,40.9125</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.306">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_306</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>12.8458333333333,41.5069444444445</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.307">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_307</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>17.1847222222222,40.7875</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.308">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_308</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.8875,40.8652777777778</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.309">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_309</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.8458333333333,38.6458333333333</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.310">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_310</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.7819444444445,41.3152777777778</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.311">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_311</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.2236111111111,39.5319444444445</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.312">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_312</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.8458333333333,40.9319444444444</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.313">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_313</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.4569444444444,41.5958333333333</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.314">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_314</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>17.1347222222222,41.0208333333333</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.315">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_315</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.2763888888889,41.0930555555556</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.316">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_316</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.5958333333333,41.2708333333333</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.317">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_317</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.0736111111111,38.6291666666667</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.318">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_318</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.5458333333333,40.7541666666667</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.319">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_319</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.2875,41.0847222222222</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.320">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_320</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.1013888888889,40.2541666666667</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.321">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_321</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.0430555555556,41.8625</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.322">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_322</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.1069444444445,38.0902777777778</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.323">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_323</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>17.4847222222222,40.3597222222222</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.324">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_324</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.8208333333334,40.3236111111111</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.325">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_325</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.0513888888889,38.1958333333333</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.326">
+	<name>Cropland</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_326</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.5208333333333,40.7152777777778</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.327">
+	<name>Other</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_327</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>12.2597222222222,41.7347222222222</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.328">
+	<name>Other</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_328</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.1125,38.1180555555556</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.329">
+	<name>Other</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_329</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.1069444444445,38.1208333333333</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.330">
+	<name>Other</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_330</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.4208333333333,40.1319444444445</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.331">
+	<name>Other</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_331</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.1069444444445,38.1180555555556</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.332">
+	<name>Other</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_332</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.0125,40.7513888888889</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.333">
+	<name>Other</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_333</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.9430555555556,40.4680555555556</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.334">
+	<name>Other</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_334</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>17.2652777777778,40.4125</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.335">
+	<name>Other</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_335</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.5930555555556,41.4902777777778</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.336">
+	<name>Other</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_336</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.1236111111111,40.8208333333333</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.337">
+	<name>Other</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_337</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>12.4875,41.8263888888889</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.338">
+	<name>Other</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_338</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.0541666666667,38.1375</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.339">
+	<name>Other</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_339</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.0236111111111,41.4763888888889</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.340">
+	<name>Other</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_340</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.2097222222222,38.9347222222222</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.341">
+	<name>Other</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_341</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.7291666666667,40.7791666666667</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.342">
+	<name>Other</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_342</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.4125,40.7541666666667</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.343">
+	<name>Other</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_343</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.1708333333333,40.8986111111111</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.344">
+	<name>Other</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_344</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.4263888888889,39.7680555555555</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.345">
+	<name>Other</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_345</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>12.5902777777778,38.0125</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.346">
+	<name>Other</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_346</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>12.4347222222222,41.7902777777778</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.347">
+	<name>Other</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_347</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.4625,40.8569444444445</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.348">
+	<name>Other</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_348</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.7875,40.5708333333333</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.349">
+	<name>Other</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_349</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>12.7402777777778,38.1763888888889</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.350">
+	<name>Other</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_350</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.8930555555556,41.3763888888889</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.351">
+	<name>Other</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_351</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.2291666666667,38.8375</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.352">
+	<name>Other</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_352</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>12.6152777777778,41.7680555555555</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.353">
+	<name>Other</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_353</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.8375,41.4958333333333</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.354">
+	<name>Other</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_354</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.0791666666667,40.8652777777778</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.355">
+	<name>Other</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_355</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.4986111111111,40.7263888888889</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.356">
+	<name>Other</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_356</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.3402777777778,41.6347222222222</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.357">
+	<name>Other</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_357</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.5541666666667,38.2097222222222</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.358">
+	<name>Other</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_358</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.2125,38.1486111111111</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.359">
+	<name>Other</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_359</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.5263888888889,40.7875</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.360">
+	<name>Other</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_360</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.1902777777778,38.1680555555556</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.361">
+	<name>Other</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_361</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.4097222222222,41.8541666666667</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.362">
+	<name>Other</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_362</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.3375,41.6430555555555</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.363">
+	<name>Other</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_363</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.3152777777778,40.4763888888889</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.364">
+	<name>Other</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_364</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.0458333333333,40.8847222222222</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.365">
+	<name>Other</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_365</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.6541666666667,40.6736111111111</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.366">
+	<name>Other</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_366</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.4319444444444,41.7513888888889</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.367">
+	<name>Other</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_367</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.0847222222222,41.3763888888889</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.368">
+	<name>Other</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_368</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>12.3986111111111,41.8875</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.369">
+	<name>Other</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_369</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.6263888888889,39.6013888888889</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.370">
+	<name>Other</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_370</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.4319444444444,39.6430555555555</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.371">
+	<name>Other</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_371</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>15.7652777777778,39.9125</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.372">
+	<name>Other</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_372</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.3430555555556,40.8347222222222</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.373">
+	<name>Other</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_373</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>12.8208333333334,41.4986111111111</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.374">
+	<name>Other</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_374</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.6513888888889,41.1763888888889</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.375">
+	<name>Other</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_375</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.4819444444445,40.7180555555556</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.376">
+	<name>Other</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_376</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>12.2625,41.7347222222222</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.377">
+	<name>Other</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_377</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.1875,40.8680555555556</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.378">
+	<name>Other</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_378</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>13.7152777777778,41.2569444444445</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.379">
+	<name>Other</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_379</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.1486111111111,40.9375</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.380">
+	<name>Other</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_380</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.4125,40.7819444444445</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.381">
+	<name>Other</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_381</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.6125,40.8013888888889</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.382">
+	<name>Other</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_382</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.2569444444445,40.9791666666667</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.383">
+	<name>Other</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_383</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>14.6791666666667,40.7458333333333</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.384">
+	<name>Other</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_384</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>17.2541666666667,40.4597222222222</coordinates></Point>
+  </Placemark>
+  <Placemark id="points_for_google_earth.385">
+	<name>Other</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#points_for_google_earth">
+		<SimpleData name="class_name">Point_385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>12.5013888888889,41.6125</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
