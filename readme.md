@@ -90,7 +90,7 @@ graph TD
         J1 --> R1
     end
 
-    subgraph Track_2 [ESA vs GLC Accuracy Comparison]
+    subgraph Track_2 [ESA vs GLC Intercomparison]
         Cond1>Prerequisite: Comparison works only when <br/> both ESA and GLC have the same year's map]:::warning
         S2[combination_esa_glc_ultimate.py]:::script
         CSV_Pair1[ESA-GLC Paired Samples CSV]:::output
@@ -126,15 +126,15 @@ graph TD
     S4 --> R2
 ```
 
-## 📈 Final Validation & Error Analysis (Example: Crati Basin, 2022)
+## 📈 Final Validation & Error Analysis (Example: Crati Basin with GLC and ESA, 2015)
 
-As the final stage of the entire data processing workflow, the paired sampling point data is fed into the error assessment module. Below are the cross-validation results for the **Crati Basin (2022)**, providing a quantitative analysis of the classification consistency between the ESA and GLC products via an automatically generated Confusion Matrix and standard remote sensing accuracy metrics.
+As the final stage of the entire data processing workflow, the paired sampling point data is fed into the error assessment module. Below are the cross-validation results for the **Crati Basin (2015)**, providing a quantitative analysis of the classification consistency between the ESA and GLC products via an automatically generated Confusion Matrix and standard remote sensing accuracy metrics.
 
 ### 1. Confusion Matrix Heatmap
 
 *Visually represents the matching and misclassification between the ESA map and the GLC map across various land cover types. The diagonal (darker shades) indicates pixels where both classifications align.*
 
-![Confusion Matrix - Crati 2022](image/readme/crati_2022_ESA_AND_GLC_COMPARISON_confusion_matrix.png)
+![Confusion Matrix - Crati 2015](image/readme/crati_2015_ESA_AND_GLC_COMPARISON_confusion_matrix.png)
 *(Note: This heatmap illustrates the pixel-level agreement between the two global land cover products.)*
 
 ### 2. Standard Accuracy Metrics
@@ -143,16 +143,47 @@ As the final stage of the entire data processing workflow, the paired sampling p
 
 | Land_Cover_Class           | Total_Reference_ESA | Total_GLC     | Correct_Pixels | Producer_Accuracy (PA) | User_Accuracy (UA) | F1_Score         |
 | :------------------------- | :------------------ | :------------ | :------------- | :--------------------- | :----------------- | :--------------- |
-| Cropland                   | 162                 | 173           | 121            | 0.7469                 | 0.6994             | 0.7224           |
-| Forest                     | 73                  | 114           | 60             | 0.8219                 | 0.5263             | 0.6417           |
-| Grassland                  | 50                  | 27            | 9              | 0.1800                 | 0.3333             | 0.2338           |
-| Other                      | 50                  | 42            | 32             | 0.6400                 | 0.7619             | 0.6957           |
-| Shrubland                  | 50                  | 28            | 11             | 0.2200                 | 0.3929             | 0.2821           |
-| Water_bodies (Excluded)    | 0                   | 1             | 0              | 0.0000                 | 0.0000             | 0.0000           |
-| **OVERALL ACCURACY** | **385**       | **385** | **233**  | **-**            | **-**        | **0.6052** |
+| Cropland                   | 164                 | 165           | 119            | 0.7256                 | 0.7212             | 0.7234           |
+| Forest                     | 71                  | 127           | 69             | 0.9718                 | 0.5433             | 0.6970           |
+| Grassland                  | 50                  | 32            | 15             | 0.3000                 | 0.4688             | 0.3659           |
+| Other                      | 50                  | 36            | 28             | 0.5600                 | 0.7778             | 0.6512           |
+| Shrubland                  | 50                  | 25            | 9              | 0.1800                 | 0.3600             | 0.2400           |
+| **OVERALL ACCURACY** | **385**       | **385** | **240**  | **-**            | **-**        | **0.6234** |
 
 ### 💡 Key Insights:
 
-* **Overall Performance**: The Overall Accuracy (OA) between the two satellite products in this region is **60.52%**.
-* **High-Reliability Classes**: **Forest** and **Cropland** exhibit the highest consistency. Notably, the Producer's Accuracy (PA) for Forest reached **82.19%**, indicating that areas labeled as Forest by ESA are highly recognized as such by GLC.
-* **High-Confusion / Divergent Classes**: **Grassland** and **Shrubland** show significant classification divergence, with PA scores of only 18.00% and 22.00%, respectively. Combined with the confusion matrix, it is evident that a substantial amount of ESA Shrubland and Grassland was categorized by GLC as Cropland and Forest. This reveals significant differences in the classification logic for transitional vegetation between the two spatial products.
+* **Overall Performance**: The Overall Accuracy (OA) between the two satellite products in this region for 2015 is **62.34%**, which is relatively consistent with the long-term trend.
+* **High-Reliability Classes**: **Forest** and **Cropland** continue to exhibit the highest consensus. Strikingly, the Producer's Accuracy (PA) for Forest reached **97.18%**, meaning almost all areas labeled as Forest by ESA were perfectly identified as such by GLC. However, GLC's lower User Accuracy (54.33%) for Forest indicates it tends to over-predict this class compared to ESA.
+* **High-Confusion / Divergent Classes**: **Shrubland** and **Grassland** remain the most challenging categories, with PA scores of only 18.00% and 30.00%, respectively. The confusion matrix clearly shows that a massive portion of ESA Shrubland was misclassified by GLC as Forest (22 pixels) and Cropland (12 pixels). Similarly, ESA Grassland was frequently categorized as Cropland (16 pixels). This underscores a persistent systemic discrepancy in how the two algorithms define and detect transitional and mixed vegetation boundaries.
+
+## 📈 Final Validation & Error Analysis (Example: Crati Basin with Ground Truth Data and ESA, 2015)
+
+As the final stage of the entire data processing workflow, the collected Ground Truth Data (GTD) sampling points are paired with the map classification results and fed into the error assessment module. Below are the validation results for the **Crati Basin (2015)**. This section provides a quantitative analysis of the consistency between the ESA land cover product and the independently collected Ground Truth Data via a Confusion Matrix and standard remote sensing accuracy metrics.
+
+### 1. Confusion Matrix Heatmap
+
+*This heatmap illustrates the matching and misclassification between the reference data (Ground Truth) and the predicted results (ESA Map) across various land cover types. The diagonal (darker shades) represents the number of correctly classified sampling points.*
+
+![Confusion Matrix - Crati 2015](image/readme/crati_2015_ESA_AND_GTD_COMPARISON_confusion_matrix.png) *(Note: Heatmap generated by `static_error.py` based on 385 paired sampling points.)*
+
+### 2. Standard Accuracy Metrics
+
+*The following table summarizes the performance metrics based on the updated comparison data, including Producer's Accuracy (PA), User's Accuracy (UA), F1-Score, and Overall Accuracy (OA).*
+
+| Land_Cover_Class           | Total_Reference_ESA | Total_Predicted_GTD | Correct_Pixels | Producer_Accuracy (PA) | User_Accuracy (UA) | F1_Score         |
+| :------------------------- | :------------------ | :------------------ | :------------- | :--------------------- | :----------------- | :--------------- |
+| **Cropland**         | 164                 | 89                  | 78             | 0.4756                 | 0.8764             | 0.6166           |
+| **Forest**           | 71                  | 103                 | 58             | 0.8169                 | 0.5631             | 0.6667           |
+| **Grassland**        | 50                  | 39                  | 15             | 0.3000                 | 0.3846             | 0.3371           |
+| **Other**            | 50                  | 68                  | 28             | 0.5600                 | 0.4118             | 0.4746           |
+| **Shrubland**        | 50                  | 86                  | 26             | 0.5200                 | 0.3023             | 0.3824           |
+| **OVERALL ACCURACY** | **385**       | **385**       | **205**  | **-**            | **-**        | **0.5325** |
+
+### 💡 Key Insights:
+
+* **Overall Performance**: The Overall Accuracy (OA) for this comparison is **53.25%**, indicating significant divergence between the two land cover products in this specific dataset.
+* **Cropland Precision vs. Recall**: Cropland exhibits a very high User's Accuracy (**87.64%**), meaning that when GTD predicts cropland, it is highly reliable. However, its Producer's Accuracy is notably low (**47.56%**), revealing that more than half of the actual ESA cropland area was missed or classified as something else by GTD.
+* **Forest Consistency**: Forest remains the most stable category overall with the highest F1-Score (**0.6667**). Its Producer's Accuracy is strong (**81.69%**), though the User's Accuracy (**56.31%**) suggests GTD still over-predicts Forest to some extent.
+* **Transitional Vegetation**:
+  * **Shrubland** shows a moderate Producer's Accuracy (**52.00%**), but its User's Accuracy is quite low (**30.23%**), indicating a high rate of false positives (areas incorrectly labeled as shrubland).
+  * **Grassland** continues to struggle with low consensus across the board (PA **30.00%**, UA **38.46%**), confirming it as the most challenging and easily confused land cover type in the Mediterranean basin.

@@ -11,6 +11,9 @@ import re
 import xarray as xr
 import rioxarray
 
+# 【新增】启用 Fiona 的 KML 读写驱动
+fiona.drvsupport.supported_drivers['KML'] = 'rw'
+
 # ==========================================
 # 1. Global Setup & Class Definitions
 # ==========================================
@@ -217,7 +220,7 @@ def generate_true_stratified_points():
     return pd.DataFrame(collected_data), src_crs
 
 # ==========================================
-# 4. Main function: Batch generate ESA sampling point CSVs
+# 4. Main function: Batch generate ESA sampling point CSVs and KMLs
 # ==========================================
 if __name__ == "__main__":
     # Set the root directory for data storage
@@ -272,23 +275,48 @@ if __name__ == "__main__":
                 df_points['Latitude'] = gdf_export_4326.geometry.y
                 df_points.drop(columns=['X_Coord', 'Y_Coord'], inplace=True)
                 
-                # Append the output path to the corresponding folder
-                file_name = f"ground_truth_samples_{current_basin}_{year_str}_ESA_only.csv"
-                current_output_csv = os.path.join(output_folder, file_name)
-                
-                # Organize the final column order (all GLC-related columns removed)
+                # Organize the final column order
                 final_columns = [
                     'Point_ID', 'Longitude', 'Latitude', 
                     'Map_Class_Code', 'Map_Class_Name', 
                     'GT_Class_Code', 'Notes'
                 ]
-                df_final = df_points[final_columns]
+                df_final = df_points[final_columns].copy()
                 
-                # Save to the exclusive folder
+                # ==========================================
+                # 导出 1：生成 CSV 文件
+                # ==========================================
+                file_name_csv = f"ground_truth_samples_{current_basin}_{year_str}_ESA_only.csv"
+                current_output_csv = os.path.join(output_folder, file_name_csv)
                 df_final.to_csv(current_output_csv, index=False)
-                print(f"    ✅ ESA sampling complete and saved to folder: {current_output_csv}")
+                print(f"    ✅ ESA sampling complete and saved to CSV: {current_output_csv}")
+                
+                # ==========================================
+                # 导出 2：生成 KML 文件
+                # ==========================================
+                # 强制规范数据类型，防止 KML 驱动导出时因类型推断失败报错
+                df_final['Map_Class_Code'] = df_final['Map_Class_Code'].astype(int)
+                df_final['Map_Class_Name'] = df_final['Map_Class_Name'].astype(str)
+                df_final['GT_Class_Code'] = df_final['GT_Class_Code'].astype(str)
+                df_final['Notes'] = df_final['Notes'].astype(str)
+                
+                # 利用现有的经纬度创建用于导出 KML 的 GeoDataFrame
+                gdf_kml = gpd.GeoDataFrame(
+                    df_final, 
+                    geometry=gpd.points_from_xy(df_final.Longitude, df_final.Latitude),
+                    crs="EPSG:4326"
+                )
+                
+                file_name_kml = f"ground_truth_samples_{current_basin}_{year_str}_ESA_only.kml"
+                current_output_kml = os.path.join(output_folder, file_name_kml)
+                
+                try:
+                    gdf_kml.to_file(current_output_kml, driver='KML')
+                    print(f"    ✅ ESA sampling KML File created: {current_output_kml}")
+                except Exception as e:
+                    print(f"    ⚠️ KML export failed for {current_output_kml}: {e}")
                 
             else:
                 continue
 
-    print("\n🎉 Task successfully completed! All independent ESA sampling files have been classified by basin and stored in their respective results_xxx folders.")
+    print("\n🎉 Task successfully completed! All independent ESA sampling files (CSV & KML) have been classified by basin and stored in their respective results_xxx folders.")
