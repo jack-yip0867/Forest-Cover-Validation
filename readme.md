@@ -31,7 +31,7 @@ Utilizing pre-processed satellite datasets provided by **Professor Daniele Oxoli
 
 * **`data/`** : The core directory containing all geospatial data. It includes the vector boundaries of the study basins (`bbox_study_areas.gpkg`). Users must manually place the reclassified `.nc` files into the `ESA_CCI_LC_reclassified` folder and `.tif` files into the `glc-fcs30` folder.  *(Note: Large raw files >50GB are ignored via `.gitignore`)* .
 * **`reclass_table.xlsx` & `info_data_caracteristics_and_pre_processing.pdf`** : Official reference documents provided by  **Professor Daniele Oxoli** . They detail the **10-class MOLCA standard** (e.g., 20 for Forest, 5 for Shrubland) applied during the data pre-processing phase.
-* `b`: The GTD data I created using collect earth and google earth pro, namely the validation dataset.
+* `b`: The GTD data I created using collect earth and google earth pro, namely the validation dataset.     
 
 #### 2. Temporal Area Statistics
 
